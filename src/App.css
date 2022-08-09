@@ -34,3 +34,7 @@ button {
   border-radius: 8px;
   cursor: pointer;
 }
+
+button:active {
+  background-color: rgb(80, 80, 217);
+}
