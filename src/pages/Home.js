@@ -5,13 +5,7 @@ export const Home = () => {
         </>
     )
 }
-export const HomeAlone = () => {
-    return (
-        <>
-        <h3>No Place Like Home!!!</h3>
-        </>
-    )
-}
+
 
 console.log(module)
 
